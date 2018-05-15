@@ -1,0 +1,12 @@
+/* https://stackoverflow.com/questions/5127937/how-to-center-canvas-in-html5 */
+div {
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+canvas{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
